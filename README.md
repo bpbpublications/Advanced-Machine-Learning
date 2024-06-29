@@ -1,2 +1,2 @@
-# Advanced Machine Learning Fundamental and Algorithms
- Advanced Machine Learning: Fundamental and Algorithms, by BPB Publications
+# Advanced Machine Learning
+ Advanced Machine Learning, by BPB Publications
